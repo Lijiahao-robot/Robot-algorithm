@@ -1,0 +1,2 @@
+安装依赖pip install numpy opencv-python pyserial smbus2
+安装依赖pip install numpy opencv-python
